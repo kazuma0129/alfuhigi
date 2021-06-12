@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Mumen's github stats](https://github-readme-stats.vercel.app/api?username=alfuhigi&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/alfuhigi)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfuhigi&hide=css,vue,makefile,java,html,dockerfile,shell&theme=tokyonight)](https://github.com/alfuhigi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfuhigi&hide=vue,html,css,makefile,dockerfile,shell&theme=tokyonight&line_height=27)](https://github.com/alfuhigi)
