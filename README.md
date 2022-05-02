@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
 ### Status Page 👻
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfuhigi&layout=compact&hide=vue,html,css,makefile,dockerfile,shell,plpgsql&theme=tokyonight&line_height=27)
+
+
 [![Mumen's github stats](https://github-readme-stats.vercel.app/api?username=alfuhigi&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/alfuhigi)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfuhigi&hide=vue,html,css,makefile,dockerfile,shell,c%23,python&theme=tokyonight&line_height=27)](https://github.com/alfuhigi)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alfuhigi&theme=tokyonight&line_height=27)
