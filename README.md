@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+💡 Ask me about:
+  - Anything, I'm always happy to help in any way that I can. You can find me on :  <a href="https://twitter.com/ajf_sa">
+    <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="26px"/>
+  </a> <a href="https://snapchat.com/add/ajf.sa">
+    <img src="https://img.icons8.com/bubbles/452/snapchat.png" width="26px"/>
+  </a>
 
 ### Status Page 👻
 
@@ -25,3 +31,5 @@ Here are some ideas to get you started:
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alfuhigi&theme=tokyonight&line_height=27)
+
+
