@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**alfuhigi/alfuhigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kazuma0129/alfuhigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 ### Status Page 👻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfuhigi&layout=compact&hide=vue,html,css,makefile,dockerfile,shell,plpgsql,smarty&theme=tokyonight&line_height=27)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuma0129&layout=compact&hide=vue,html,css,makefile,dockerfile,shell,plpgsql,smarty&theme=tokyonight&line_height=27)
 
 
-[![Mumen's github stats](https://github-readme-stats.vercel.app/api?username=alfuhigi&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/alfuhigi)
+[![Mumen's github stats](https://github-readme-stats.vercel.app/api?username=kazuma0129&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/kazuma0129)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=alfuhigi&theme=tokyonight&line_height=27)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kazuma0129&theme=tokyonight&line_height=27)
 
 
